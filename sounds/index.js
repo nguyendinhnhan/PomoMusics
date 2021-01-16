@@ -12,4 +12,4 @@
     url:
       "https://raw.githubusercontent.com/nguyendinhnhan/PomoMusics/master/Sounds/water-wave-beach-field.wav",
   },
-];
+]
